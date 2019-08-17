@@ -15,7 +15,6 @@ h2 {
 
 .completed {
   font-family: 12px;
-  text-decoration: completed;
 }
 
 #tasks .completed {
